@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import '../components/style.css';
 import trustbank from '../assets/trustbank.svg'
 import gbos from '../assets/gbos.svg'

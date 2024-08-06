@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 import { Route,  Routes } from "react-router-dom";
 import Home from './pages/Index'
-import About from './pages/About'
+// import About from './pages/About'
 
 
 export function Nav(){

@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 // import Navbar from "../components/NavBar";
 import '../components/style.css'
-import About from './About'
+// import About from './About'
 
 
 export function Home(){
